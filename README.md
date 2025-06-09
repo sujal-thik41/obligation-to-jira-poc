@@ -19,6 +19,24 @@ This application provides an end-to-end solution for legal teams to:
 - **Modern UI**: Clean, responsive interface built with React and Material UI
 - **Robust Backend**: FastAPI backend with async support for efficient processing
 
+## Screenshots
+
+### Document Upload
+![Document Upload Screen](/screenshots/upload_document.png)
+*Upload a PDF or DOCX file to extract legal obligations*
+
+### Obligations List
+![Obligations List](/screenshots/obligations_list.png)
+*View and manage all extracted obligations with filtering options*
+
+### Edit Obligation
+![Edit Obligation](/screenshots/edit_obligation.png)
+*Edit obligation details including text, party name, deadline, section, and priority*
+
+### Jira Integration
+![Jira Issue](/screenshots/jira_issue.png)
+*Automatically created Jira issue with locked description field*
+
 ## Architecture
 
 ### Backend (FastAPI)

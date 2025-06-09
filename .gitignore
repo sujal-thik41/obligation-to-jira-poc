@@ -57,6 +57,9 @@ cover/
 
 obligations_data.json
 
+# Screenshots
+screenshots/
+
 # Translations
 *.mo
 *.pot
