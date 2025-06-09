@@ -58,7 +58,7 @@ cover/
 obligations_data.json
 
 # Screenshots
-screenshots/
+# screenshots/
 
 # Translations
 *.mo
